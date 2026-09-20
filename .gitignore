@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Generated projects, build output, and runtime files
+/project_files/
+/output/
+*.asi
+*.log
